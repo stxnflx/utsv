@@ -1,0 +1,58 @@
+1 - ( 14511 - Dragonov ) = ( 14512 - Dragonov Magazine )
+
+
+2 - ( 14530 - HK416 ) = ( 14531 - HK416 Magazine )
+
+
+3 - ( 14536 - M200 ) = ( 14537 - M200 Magazine )
+
+
+4 - ( 14551 - SSG69 ) = ( 14552 - SSG69 Magazine )
+
+
+5 - ( 14538 - M249 ) = ( 14539 - M249 Magazine )
+
+
+6 - ( 14561 - WA 2000 ) = ( 14562 - WA 2000 Magazine )
+
+
+7 - ( 14549 - SR-25 ) = ( 14550 - SR-25 Magazine )
+
+
+8 - ( 363 - Maplestrike ) = ( 6 - Pente Militar )
+
+
+9 - ( 122 - Zubeknakov ) = ( 123 - Pente Ranger )
+
+
+10 - ( 116 - Honeybadger ) = ( 6 - Pente Militar )
+
+
+11 - ( 297 - Grizzly ) = ( 298 - Pente da Grizzly )
+
+
+12 - ( 1382 - Ekho ) = ( 1384 - Pente da Ekho )
+
+
+13 - ( 1000 - Matamorez ) = ( 1003 - Pente da Matamorez )
+
+
+14 - ( 15 - Medkit )
+
+
+15 - ( 149 - Barrel Militar )
+
+
+16 - ( 8 - Grip )
+
+
+17 - ( 1007 - Adaptive )
+
+
+18 - ( 1100 - C4 )
+
+
+19 - ( 33338 - Epic Coyote Pack )
+
+
+20 - ( 17 - Drum )
